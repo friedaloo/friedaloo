@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @friedaloo
-- 👀 I’m learing the insights to coding practices
-- 🌱 I’m currelty a student
+- 👋 Hi, I’m @Yathechya Shrestha
+- 👀 I’m exploring the world at my own pace
+- 🌱 Just an average college student
+  
 
 <!---
 friedaloo/friedaloo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
